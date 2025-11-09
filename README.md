@@ -44,4 +44,17 @@ By completing these tasks, I have learned to:
 ---
 
 ## 🗂️ Repository Structure
-
+ApplicationDevelopment/
+├── Task1_Variables/
+│ └── Program.cs
+├── Task2_Constants/
+│ └── Program.cs
+├── Task3_TypeConversion/
+│ └── Program.cs
+├── Task4_Arrays/
+│ └── Program.cs
+├── Task5_DateTime/
+│ └── Program.cs
+├── Task6_Collections/
+│ └── Program.cs
+└── README.md
