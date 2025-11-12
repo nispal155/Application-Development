@@ -1,0 +1,15 @@
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/task4.AssemblyInfoInputs.cache
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/task4.AssemblyInfo.cs
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/task4.csproj.CoreCompileInputs.cache
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/task4.sourcelink.json
+/Users/nispal/Desktop/Application Development/Week-3/task4/bin/Debug/net9.0/task4
+/Users/nispal/Desktop/Application Development/Week-3/task4/bin/Debug/net9.0/task4.deps.json
+/Users/nispal/Desktop/Application Development/Week-3/task4/bin/Debug/net9.0/task4.runtimeconfig.json
+/Users/nispal/Desktop/Application Development/Week-3/task4/bin/Debug/net9.0/task4.dll
+/Users/nispal/Desktop/Application Development/Week-3/task4/bin/Debug/net9.0/task4.pdb
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/task4.dll
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/refint/task4.dll
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/task4.pdb
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/task4.genruntimeconfig.cache
+/Users/nispal/Desktop/Application Development/Week-3/task4/obj/Debug/net9.0/ref/task4.dll
