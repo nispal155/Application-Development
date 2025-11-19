@@ -4,7 +4,7 @@ public class Program
 {
      static void Main(string[] args)
         {
-            LoopTasks loopTasks = new LoopTasks();
+            LoopTasks loopTasks = new LoopTasks();git branch -M main
             Console.WriteLine("=== Task 5: Loops ===\n");
             loopTasks.SumFromOneToN();
             loopTasks.WhileLoopDemo();
