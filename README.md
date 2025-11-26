@@ -19,18 +19,7 @@ This module introduces the foundations of **C# programming**, focusing on:
 
 ---
 
-## 🧩 Tasks Included
-
-| 🧾 Task No. | 🏷️ Title | ⚙️ Concepts Covered |
-|-------------|-----------|--------------------|
-| **Task 1** | Variables and DataTypes | Declaring variables, using string interpolation |
-| **Task 2** | Constants | Using `const` keyword, circle class example |
-| **Task 3** | Data Types and Type Conversion | Type casting, parsing, printing variable info |
-| **Task 4** | Arrays and Array Methods | Sorting, reversing, indexing, looping through arrays |
-| **Task 5** | DateTime and TimeSpan | Calculating age, adding days, displaying formatted dates |
-| **Task 6** | Generic Collections | Working with `List<T>` and `Dictionary<TKey, TValue>` |
-
----
+-
 
 ## 🧠 Learning Outcomes
 
@@ -43,18 +32,4 @@ By completing these tasks, I have learned to:
 
 ---
 
-## 🗂️ Repository Structure
-ApplicationDevelopment/
-├── Task1_Variables/
-│ └── Program.cs
-├── Task2_Constants/
-│ └── Program.cs
-├── Task3_TypeConversion/
-│ └── Program.cs
-├── Task4_Arrays/
-│ └── Program.cs
-├── Task5_DateTime/
-│ └── Program.cs
-├── Task6_Collections/
-│ └── Program.cs
-└── README.md
+
