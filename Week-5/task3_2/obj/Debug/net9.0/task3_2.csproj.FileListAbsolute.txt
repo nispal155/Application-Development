@@ -1,0 +1,5 @@
+/Users/nispal/Desktop/Application Development/Week-5/task3_2/obj/Debug/net9.0/task3_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nispal/Desktop/Application Development/Week-5/task3_2/obj/Debug/net9.0/task3_2.AssemblyInfoInputs.cache
+/Users/nispal/Desktop/Application Development/Week-5/task3_2/obj/Debug/net9.0/task3_2.AssemblyInfo.cs
+/Users/nispal/Desktop/Application Development/Week-5/task3_2/obj/Debug/net9.0/task3_2.csproj.CoreCompileInputs.cache
+/Users/nispal/Desktop/Application Development/Week-5/task3_2/obj/Debug/net9.0/task3_2.sourcelink.json
