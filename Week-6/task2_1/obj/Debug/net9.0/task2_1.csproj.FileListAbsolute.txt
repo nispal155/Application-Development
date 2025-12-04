@@ -1,0 +1,15 @@
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/bin/Debug/net9.0/task2_1
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/bin/Debug/net9.0/task2_1.deps.json
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/bin/Debug/net9.0/task2_1.runtimeconfig.json
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/bin/Debug/net9.0/task2_1.dll
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/bin/Debug/net9.0/task2_1.pdb
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/task2_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/task2_1.AssemblyInfoInputs.cache
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/task2_1.AssemblyInfo.cs
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/task2_1.csproj.CoreCompileInputs.cache
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/task2_1.sourcelink.json
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/task2_1.dll
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/refint/task2_1.dll
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/task2_1.pdb
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/task2_1.genruntimeconfig.cache
+/Users/nispal/Desktop/Application Development/Week-6/task2_1/obj/Debug/net9.0/ref/task2_1.dll
